@@ -1,0 +1,289 @@
+ticker,company,fiscal_year,section,accession,url,theme,mentions,words,mentions_per_1000_words
+TRV,Travelers,2025,1A,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Catastrophe and climate,11,12259,0.8972999428990945
+TRV,Travelers,2025,1A,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Reinsurance and recoverables,4,12259,0.3262908883269435
+TRV,Travelers,2025,1A,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Social inflation and litigation,0,12259,0.0
+TRV,Travelers,2025,1A,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Reserve adequacy,14,12259,1.1420181091443022
+TRV,Travelers,2025,1A,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Cyber risk,29,12259,2.36560894037034
+TRV,Travelers,2025,1A,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Technology and AI,23,12259,1.876172607879925
+TRV,Travelers,2025,7,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Catastrophe and climate,66,34181,1.9308972821157953
+TRV,Travelers,2025,7,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Reinsurance and recoverables,21,34181,0.6143764079459348
+TRV,Travelers,2025,7,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Social inflation and litigation,6,34181,0.1755361165559814
+TRV,Travelers,2025,7,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Reserve adequacy,36,34181,1.0532166993358885
+TRV,Travelers,2025,7,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Cyber risk,5,34181,0.1462800971299845
+TRV,Travelers,2025,7,0000086312-26-000065,https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm,Technology and AI,1,34181,0.0292560194259969
+TRV,Travelers,2024,1A,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Catastrophe and climate,11,12245,0.898325847284606
+TRV,Travelers,2024,1A,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Reinsurance and recoverables,4,12245,0.32666394446712943
+TRV,Travelers,2024,1A,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Social inflation and litigation,0,12245,0.0
+TRV,Travelers,2024,1A,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Reserve adequacy,14,12245,1.143323805634953
+TRV,Travelers,2024,1A,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Cyber risk,26,12245,2.1233156390363415
+TRV,Travelers,2024,1A,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Technology and AI,12,12245,0.9799918334013883
+TRV,Travelers,2024,7,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Catastrophe and climate,69,35231,1.9585024552240924
+TRV,Travelers,2024,7,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Reinsurance and recoverables,21,35231,0.5960659646334194
+TRV,Travelers,2024,7,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Social inflation and litigation,6,35231,0.17030456132383412
+TRV,Travelers,2024,7,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Reserve adequacy,43,35231,1.2205160228208112
+TRV,Travelers,2024,7,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Cyber risk,5,35231,0.14192046776986178
+TRV,Travelers,2024,7,0000086312-25-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm,Technology and AI,1,35231,0.028384093553972353
+TRV,Travelers,2023,1A,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Catastrophe and climate,11,12140,0.9060955518945635
+TRV,Travelers,2023,1A,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Reinsurance and recoverables,4,12140,0.32948929159802304
+TRV,Travelers,2023,1A,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Social inflation and litigation,0,12140,0.0
+TRV,Travelers,2023,1A,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Reserve adequacy,14,12140,1.1532125205930808
+TRV,Travelers,2023,1A,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Cyber risk,22,12140,1.812191103789127
+TRV,Travelers,2023,1A,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Technology and AI,11,12140,0.9060955518945635
+TRV,Travelers,2023,7,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Catastrophe and climate,67,35227,1.9019502086467766
+TRV,Travelers,2023,7,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Reinsurance and recoverables,22,35227,0.62452096403327
+TRV,Travelers,2023,7,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Social inflation and litigation,6,35227,0.1703238992818009
+TRV,Travelers,2023,7,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Reserve adequacy,42,35227,1.1922672949726063
+TRV,Travelers,2023,7,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Cyber risk,4,35227,0.11354926618786726
+TRV,Travelers,2023,7,0000086312-24-000012,https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm,Technology and AI,1,35227,0.028387316546966815
+CB,Chubb,2025,1A,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Catastrophe and climate,7,10901,0.6421429226676452
+CB,Chubb,2025,1A,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Reinsurance and recoverables,5,10901,0.45867351619117513
+CB,Chubb,2025,1A,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Social inflation and litigation,1,10901,0.09173470323823503
+CB,Chubb,2025,1A,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Reserve adequacy,11,10901,1.0090817356205852
+CB,Chubb,2025,1A,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Cyber risk,24,10901,2.2016328777176404
+CB,Chubb,2025,1A,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Technology and AI,6,10901,0.5504082194294101
+CB,Chubb,2025,7,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Catastrophe and climate,79,28351,2.786497830764347
+CB,Chubb,2025,7,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Reinsurance and recoverables,25,28351,0.8818031110013757
+CB,Chubb,2025,7,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Social inflation and litigation,0,28351,0.0
+CB,Chubb,2025,7,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Reserve adequacy,18,28351,0.6348982399209905
+CB,Chubb,2025,7,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Cyber risk,10,28351,0.35272124440055025
+CB,Chubb,2025,7,0000896159-26-000005,https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm,Technology and AI,0,28351,0.0
+CB,Chubb,2024,1A,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Catastrophe and climate,10,11094,0.9013881377321075
+CB,Chubb,2024,1A,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Reinsurance and recoverables,5,11094,0.45069406886605373
+CB,Chubb,2024,1A,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Social inflation and litigation,1,11094,0.09013881377321074
+CB,Chubb,2024,1A,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Reserve adequacy,11,11094,0.9915269515053182
+CB,Chubb,2024,1A,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Cyber risk,24,11094,2.1633315305570577
+CB,Chubb,2024,1A,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Technology and AI,6,11094,0.5408328826392644
+CB,Chubb,2024,7,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Catastrophe and climate,105,29808,3.5225442834138487
+CB,Chubb,2024,7,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Reinsurance and recoverables,25,29808,0.8387010198604401
+CB,Chubb,2024,7,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Social inflation and litigation,0,29808,0.0
+CB,Chubb,2024,7,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Reserve adequacy,17,29808,0.5703166935050993
+CB,Chubb,2024,7,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Cyber risk,9,29808,0.30193236714975846
+CB,Chubb,2024,7,0000896159-25-000004,https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm,Technology and AI,0,29808,0.0
+CB,Chubb,2023,1A,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Catastrophe and climate,10,10901,0.9173470323823503
+CB,Chubb,2023,1A,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Reinsurance and recoverables,5,10901,0.45867351619117513
+CB,Chubb,2023,1A,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Social inflation and litigation,1,10901,0.09173470323823503
+CB,Chubb,2023,1A,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Reserve adequacy,11,10901,1.0090817356205852
+CB,Chubb,2023,1A,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Cyber risk,21,10901,1.9264287680029355
+CB,Chubb,2023,1A,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Technology and AI,4,10901,0.3669388129529401
+CB,Chubb,2023,7,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Catastrophe and climate,96,30797,3.117186738968081
+CB,Chubb,2023,7,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Reinsurance and recoverables,25,30797,0.8117673799396045
+CB,Chubb,2023,7,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Social inflation and litigation,0,30797,0.0
+CB,Chubb,2023,7,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Reserve adequacy,17,30797,0.552001818358931
+CB,Chubb,2023,7,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Cyber risk,9,30797,0.2922362567782576
+CB,Chubb,2023,7,0000896159-24-000003,https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm,Technology and AI,0,30797,0.0
+PGR,Progressive,2025,1A,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm,Catastrophe and climate,14,10821,1.2937806117734036
+PGR,Progressive,2025,1A,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm,Reinsurance and recoverables,0,10821,0.0
+PGR,Progressive,2025,1A,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm,Social inflation and litigation,0,10821,0.0
+PGR,Progressive,2025,1A,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm,Reserve adequacy,6,10821,0.5544774050457444
+PGR,Progressive,2025,1A,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm,Cyber risk,10,10821,0.924129008409574
+PGR,Progressive,2025,1A,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm,Technology and AI,4,10821,0.3696516033638296
+PGR,Progressive,2025,7,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231_d2.htm,Catastrophe and climate,20,15612,1.2810658467845246
+PGR,Progressive,2025,7,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231_d2.htm,Reinsurance and recoverables,1,15612,0.06405329233922624
+PGR,Progressive,2025,7,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231_d2.htm,Social inflation and litigation,0,15612,0.0
+PGR,Progressive,2025,7,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231_d2.htm,Reserve adequacy,10,15612,0.6405329233922623
+PGR,Progressive,2025,7,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231_d2.htm,Cyber risk,0,15612,0.0
+PGR,Progressive,2025,7,0000080661-26-000086,https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231_d2.htm,Technology and AI,0,15612,0.0
+PGR,Progressive,2024,1A,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm,Catastrophe and climate,14,10772,1.2996658002227999
+PGR,Progressive,2024,1A,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm,Reinsurance and recoverables,0,10772,0.0
+PGR,Progressive,2024,1A,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm,Social inflation and litigation,0,10772,0.0
+PGR,Progressive,2024,1A,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm,Reserve adequacy,6,10772,0.5569996286669142
+PGR,Progressive,2024,1A,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm,Cyber risk,10,10772,0.928332714444857
+PGR,Progressive,2024,1A,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm,Technology and AI,4,10772,0.37133308577794283
+PGR,Progressive,2024,7,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231_d2.htm,Catastrophe and climate,21,17601,1.1931140276120675
+PGR,Progressive,2024,7,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231_d2.htm,Reinsurance and recoverables,2,17601,0.11362990739162547
+PGR,Progressive,2024,7,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231_d2.htm,Social inflation and litigation,0,17601,0.0
+PGR,Progressive,2024,7,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231_d2.htm,Reserve adequacy,14,17601,0.7954093517413783
+PGR,Progressive,2024,7,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231_d2.htm,Cyber risk,0,17601,0.0
+PGR,Progressive,2024,7,0000080661-25-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231_d2.htm,Technology and AI,0,17601,0.0
+PGR,Progressive,2023,1A,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm,Catastrophe and climate,14,10892,1.2853470437017995
+PGR,Progressive,2023,1A,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm,Reinsurance and recoverables,0,10892,0.0
+PGR,Progressive,2023,1A,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm,Social inflation and litigation,0,10892,0.0
+PGR,Progressive,2023,1A,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm,Reserve adequacy,6,10892,0.5508630187293426
+PGR,Progressive,2023,1A,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm,Cyber risk,10,10892,0.9181050312155711
+PGR,Progressive,2023,1A,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm,Technology and AI,4,10892,0.3672420124862284
+PGR,Progressive,2023,7,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231_d2.htm,Catastrophe and climate,20,19477,1.0268521846280227
+PGR,Progressive,2023,7,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231_d2.htm,Reinsurance and recoverables,2,19477,0.10268521846280228
+PGR,Progressive,2023,7,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231_d2.htm,Social inflation and litigation,0,19477,0.0
+PGR,Progressive,2023,7,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231_d2.htm,Reserve adequacy,12,19477,0.6161113107768137
+PGR,Progressive,2023,7,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231_d2.htm,Cyber risk,0,19477,0.0
+PGR,Progressive,2023,7,0000080661-24-000007,https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231_d2.htm,Technology and AI,0,19477,0.0
+ALL,Allstate,2025,1A,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Catastrophe and climate,18,7997,2.2508440665249467
+ALL,Allstate,2025,1A,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Reinsurance and recoverables,0,7997,0.0
+ALL,Allstate,2025,1A,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Social inflation and litigation,0,7997,0.0
+ALL,Allstate,2025,1A,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Reserve adequacy,0,7997,0.0
+ALL,Allstate,2025,1A,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Cyber risk,12,7997,1.5005627110166313
+ALL,Allstate,2025,1A,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Technology and AI,7,7997,0.8753282480930349
+ALL,Allstate,2025,7,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Catastrophe and climate,34,28899,1.176511297968788
+ALL,Allstate,2025,7,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Reinsurance and recoverables,15,28899,0.5190491020450535
+ALL,Allstate,2025,7,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Social inflation and litigation,0,28899,0.0
+ALL,Allstate,2025,7,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Reserve adequacy,7,28899,0.2422229142876916
+ALL,Allstate,2025,7,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Cyber risk,4,28899,0.13841309387868092
+ALL,Allstate,2025,7,0000899051-26-000031,https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm,Technology and AI,1,28899,0.03460327346967023
+ALL,Allstate,2024,1A,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Catastrophe and climate,19,7996,2.3761880940470235
+ALL,Allstate,2024,1A,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Reinsurance and recoverables,0,7996,0.0
+ALL,Allstate,2024,1A,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Social inflation and litigation,0,7996,0.0
+ALL,Allstate,2024,1A,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Reserve adequacy,0,7996,0.0
+ALL,Allstate,2024,1A,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Cyber risk,13,7996,1.6258129064532265
+ALL,Allstate,2024,1A,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Technology and AI,8,7996,1.0005002501250626
+ALL,Allstate,2024,7,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Catastrophe and climate,38,32915,1.1544888348777154
+ALL,Allstate,2024,7,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Reinsurance and recoverables,11,32915,0.3341941364119702
+ALL,Allstate,2024,7,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Social inflation and litigation,0,32915,0.0
+ALL,Allstate,2024,7,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Reserve adequacy,10,32915,0.3038128512836093
+ALL,Allstate,2024,7,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Cyber risk,3,32915,0.0911438553850828
+ALL,Allstate,2024,7,0000899051-25-000015,https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm,Technology and AI,1,32915,0.03038128512836093
+ALL,Allstate,2023,1A,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Catastrophe and climate,19,7592,2.5026343519494203
+ALL,Allstate,2023,1A,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Reinsurance and recoverables,0,7592,0.0
+ALL,Allstate,2023,1A,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Social inflation and litigation,0,7592,0.0
+ALL,Allstate,2023,1A,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Reserve adequacy,0,7592,0.0
+ALL,Allstate,2023,1A,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Cyber risk,8,7592,1.053740779768177
+ALL,Allstate,2023,1A,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Technology and AI,2,7592,0.26343519494204426
+ALL,Allstate,2023,7,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Catastrophe and climate,44,36590,1.2025143481825635
+ALL,Allstate,2023,7,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Reinsurance and recoverables,14,36590,0.38261820169445204
+ALL,Allstate,2023,7,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Social inflation and litigation,0,36590,0.0
+ALL,Allstate,2023,7,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Reserve adequacy,9,36590,0.24596884394643345
+ALL,Allstate,2023,7,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Cyber risk,4,36590,0.10931948619841486
+ALL,Allstate,2023,7,0000899051-24-000013,https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm,Technology and AI,1,36590,0.027329871549603715
+ACGL,Arch Capital,2025,1A,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Catastrophe and climate,24,15988,1.5011258443832876
+ACGL,Arch Capital,2025,1A,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Reinsurance and recoverables,1,15988,0.06254691018263697
+ACGL,Arch Capital,2025,1A,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Social inflation and litigation,0,15988,0.0
+ACGL,Arch Capital,2025,1A,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Reserve adequacy,6,15988,0.3752814610958219
+ACGL,Arch Capital,2025,1A,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Cyber risk,34,15988,2.126594946209657
+ACGL,Arch Capital,2025,1A,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Technology and AI,3,15988,0.18764073054791094
+ACGL,Arch Capital,2025,7,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Catastrophe and climate,4,22347,0.17899494339284916
+ACGL,Arch Capital,2025,7,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Reinsurance and recoverables,10,22347,0.4474873584821229
+ACGL,Arch Capital,2025,7,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Social inflation and litigation,0,22347,0.0
+ACGL,Arch Capital,2025,7,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Reserve adequacy,43,22347,1.9241956414731285
+ACGL,Arch Capital,2025,7,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Cyber risk,0,22347,0.0
+ACGL,Arch Capital,2025,7,0000947484-26-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm,Technology and AI,0,22347,0.0
+ACGL,Arch Capital,2024,1A,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Catastrophe and climate,29,16049,1.806966166116269
+ACGL,Arch Capital,2024,1A,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Reinsurance and recoverables,1,16049,0.062309178141940307
+ACGL,Arch Capital,2024,1A,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Social inflation and litigation,0,16049,0.0
+ACGL,Arch Capital,2024,1A,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Reserve adequacy,6,16049,0.3738550688516418
+ACGL,Arch Capital,2024,1A,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Cyber risk,33,16049,2.0562028786840303
+ACGL,Arch Capital,2024,1A,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Technology and AI,0,16049,0.0
+ACGL,Arch Capital,2024,7,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Catastrophe and climate,6,22543,0.2661580091380916
+ACGL,Arch Capital,2024,7,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Reinsurance and recoverables,10,22543,0.4435966818968194
+ACGL,Arch Capital,2024,7,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Social inflation and litigation,0,22543,0.0
+ACGL,Arch Capital,2024,7,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Reserve adequacy,43,22543,1.9074657321563235
+ACGL,Arch Capital,2024,7,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Cyber risk,0,22543,0.0
+ACGL,Arch Capital,2024,7,0000947484-25-000017,https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm,Technology and AI,0,22543,0.0
+ACGL,Arch Capital,2023,1A,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Catastrophe and climate,29,16107,1.8004594275780716
+ACGL,Arch Capital,2023,1A,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Reinsurance and recoverables,1,16107,0.06208480784751971
+ACGL,Arch Capital,2023,1A,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Social inflation and litigation,0,16107,0.0
+ACGL,Arch Capital,2023,1A,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Reserve adequacy,6,16107,0.3725088470851183
+ACGL,Arch Capital,2023,1A,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Cyber risk,35,16107,2.17296827466319
+ACGL,Arch Capital,2023,1A,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Technology and AI,0,16107,0.0
+ACGL,Arch Capital,2023,7,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Catastrophe and climate,6,22181,0.27050178080339027
+ACGL,Arch Capital,2023,7,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Reinsurance and recoverables,10,22181,0.45083630133898384
+ACGL,Arch Capital,2023,7,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Social inflation and litigation,0,22181,0.0
+ACGL,Arch Capital,2023,7,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Reserve adequacy,42,22181,1.893512465623732
+ACGL,Arch Capital,2023,7,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Cyber risk,0,22181,0.0
+ACGL,Arch Capital,2023,7,0000947484-24-000020,https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm,Technology and AI,0,22181,0.0
+EG,Everest,2025,1A,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Catastrophe and climate,7,12170,0.5751848808545604
+EG,Everest,2025,1A,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Reinsurance and recoverables,0,12170,0.0
+EG,Everest,2025,1A,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Social inflation and litigation,2,12170,0.16433853738701726
+EG,Everest,2025,1A,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Reserve adequacy,5,12170,0.4108463434675431
+EG,Everest,2025,1A,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Cyber risk,23,12170,1.8898931799506984
+EG,Everest,2025,1A,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Technology and AI,2,12170,0.16433853738701726
+EG,Everest,2025,7,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Catastrophe and climate,43,18303,2.3493416379828442
+EG,Everest,2025,7,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Reinsurance and recoverables,15,18303,0.8195377806916899
+EG,Everest,2025,7,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Social inflation and litigation,3,18303,0.163907556138338
+EG,Everest,2025,7,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Reserve adequacy,24,18303,1.311260449106704
+EG,Everest,2025,7,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Cyber risk,3,18303,0.163907556138338
+EG,Everest,2025,7,0001095073-26-000006,https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm,Technology and AI,0,18303,0.0
+EG,Everest,2024,1A,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Catastrophe and climate,7,10158,0.689112029927151
+EG,Everest,2024,1A,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Reinsurance and recoverables,0,10158,0.0
+EG,Everest,2024,1A,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Social inflation and litigation,2,10158,0.19688915140775742
+EG,Everest,2024,1A,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Reserve adequacy,4,10158,0.39377830281551485
+EG,Everest,2024,1A,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Cyber risk,19,10158,1.8704469383736957
+EG,Everest,2024,1A,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Technology and AI,3,10158,0.29533372711163614
+EG,Everest,2024,7,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Catastrophe and climate,39,17161,2.272594837130703
+EG,Everest,2024,7,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Reinsurance and recoverables,13,17161,0.7575316123769011
+EG,Everest,2024,7,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Social inflation and litigation,4,17161,0.23308664996212342
+EG,Everest,2024,7,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Reserve adequacy,14,17161,0.815803274867432
+EG,Everest,2024,7,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Cyber risk,4,17161,0.23308664996212342
+EG,Everest,2024,7,0001095073-25-000015,https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm,Technology and AI,0,17161,0.0
+EG,Everest,2023,1A,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Catastrophe and climate,7,8907,0.7858987313349052
+EG,Everest,2023,1A,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Reinsurance and recoverables,0,8907,0.0
+EG,Everest,2023,1A,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Social inflation and litigation,0,8907,0.0
+EG,Everest,2023,1A,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Reserve adequacy,2,8907,0.22454249466711576
+EG,Everest,2023,1A,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Cyber risk,10,8907,1.1227124733355787
+EG,Everest,2023,1A,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Technology and AI,0,8907,0.0
+EG,Everest,2023,7,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Catastrophe and climate,26,15366,1.6920473773265652
+EG,Everest,2023,7,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Reinsurance and recoverables,13,15366,0.8460236886632826
+EG,Everest,2023,7,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Social inflation and litigation,1,15366,0.06507874528179097
+EG,Everest,2023,7,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Reserve adequacy,13,15366,0.8460236886632826
+EG,Everest,2023,7,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Cyber risk,2,15366,0.13015749056358195
+EG,Everest,2023,7,0001095073-24-000009,https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm,Technology and AI,0,15366,0.0
+RNR,RenaissanceRe,2025,1A,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Catastrophe and climate,5,9216,0.5425347222222222
+RNR,RenaissanceRe,2025,1A,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Reinsurance and recoverables,6,9216,0.6510416666666666
+RNR,RenaissanceRe,2025,1A,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Social inflation and litigation,2,9216,0.2170138888888889
+RNR,RenaissanceRe,2025,1A,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Reserve adequacy,1,9216,0.10850694444444445
+RNR,RenaissanceRe,2025,1A,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Cyber risk,19,9216,2.0616319444444446
+RNR,RenaissanceRe,2025,1A,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Technology and AI,3,9216,0.3255208333333333
+RNR,RenaissanceRe,2025,7,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Catastrophe and climate,19,26836,0.7080041734982859
+RNR,RenaissanceRe,2025,7,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Reinsurance and recoverables,28,26836,1.0433745714711582
+RNR,RenaissanceRe,2025,7,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Social inflation and litigation,3,26836,0.11179013265762408
+RNR,RenaissanceRe,2025,7,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Reserve adequacy,9,26836,0.33537039797287227
+RNR,RenaissanceRe,2025,7,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Cyber risk,1,26836,0.03726337755254136
+RNR,RenaissanceRe,2025,7,0000913144-26-000012,https://www.sec.gov/Archives/edgar/data/913144/000091314426000012/rnr-20251231.htm,Technology and AI,1,26836,0.03726337755254136
+RNR,RenaissanceRe,2024,1A,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Catastrophe and climate,12,9584,1.2520868113522539
+RNR,RenaissanceRe,2024,1A,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Reinsurance and recoverables,6,9584,0.6260434056761269
+RNR,RenaissanceRe,2024,1A,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Social inflation and litigation,2,9584,0.20868113522537562
+RNR,RenaissanceRe,2024,1A,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Reserve adequacy,1,9584,0.10434056761268781
+RNR,RenaissanceRe,2024,1A,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Cyber risk,18,9584,1.8781302170283807
+RNR,RenaissanceRe,2024,1A,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Technology and AI,3,9584,0.31302170283806346
+RNR,RenaissanceRe,2024,7,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Catastrophe and climate,21,28019,0.7494914165387773
+RNR,RenaissanceRe,2024,7,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Reinsurance and recoverables,27,28019,0.9636318212641422
+RNR,RenaissanceRe,2024,7,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Social inflation and litigation,2,28019,0.07138013490845498
+RNR,RenaissanceRe,2024,7,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Reserve adequacy,9,28019,0.3212106070880474
+RNR,RenaissanceRe,2024,7,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Cyber risk,0,28019,0.0
+RNR,RenaissanceRe,2024,7,0000913144-25-000009,https://www.sec.gov/Archives/edgar/data/913144/000091314425000009/rnr-20241231.htm,Technology and AI,0,28019,0.0
+RNR,RenaissanceRe,2023,1A,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Catastrophe and climate,13,9862,1.3181910363009532
+RNR,RenaissanceRe,2023,1A,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Reinsurance and recoverables,6,9862,0.6083958629081322
+RNR,RenaissanceRe,2023,1A,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Social inflation and litigation,2,9862,0.2027986209693774
+RNR,RenaissanceRe,2023,1A,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Reserve adequacy,2,9862,0.2027986209693774
+RNR,RenaissanceRe,2023,1A,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Cyber risk,15,9862,1.5209896572703305
+RNR,RenaissanceRe,2023,1A,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Technology and AI,2,9862,0.2027986209693774
+RNR,RenaissanceRe,2023,7,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Catastrophe and climate,18,28443,0.6328446366417044
+RNR,RenaissanceRe,2023,7,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Reinsurance and recoverables,26,28443,0.9141089195935731
+RNR,RenaissanceRe,2023,7,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Social inflation and litigation,0,28443,0.0
+RNR,RenaissanceRe,2023,7,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Reserve adequacy,8,28443,0.28126428295186867
+RNR,RenaissanceRe,2023,7,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Cyber risk,1,28443,0.035158035368983584
+RNR,RenaissanceRe,2023,7,0000913144-24-000019,https://www.sec.gov/Archives/edgar/data/913144/000091314424000019/rnr-20231231.htm,Technology and AI,0,28443,0.0
+WRB,W. R. Berkley,2025,1A,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Catastrophe and climate,12,9968,1.203852327447833
+WRB,W. R. Berkley,2025,1A,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Reinsurance and recoverables,3,9968,0.30096308186195825
+WRB,W. R. Berkley,2025,1A,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Social inflation and litigation,4,9968,0.4012841091492777
+WRB,W. R. Berkley,2025,1A,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Reserve adequacy,5,9968,0.5016051364365971
+WRB,W. R. Berkley,2025,1A,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Cyber risk,12,9968,1.203852327447833
+WRB,W. R. Berkley,2025,1A,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Technology and AI,4,9968,0.4012841091492777
+WRB,W. R. Berkley,2025,7,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Catastrophe and climate,9,12772,0.7046664578766051
+WRB,W. R. Berkley,2025,7,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Reinsurance and recoverables,0,12772,0.0
+WRB,W. R. Berkley,2025,7,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Social inflation and litigation,10,12772,0.7829627309740056
+WRB,W. R. Berkley,2025,7,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Reserve adequacy,26,12772,2.0357031005324147
+WRB,W. R. Berkley,2025,7,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Cyber risk,1,12772,0.07829627309740056
+WRB,W. R. Berkley,2025,7,0000011544-26-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154426000005/wrb-20251231.htm,Technology and AI,0,12772,0.0
+WRB,W. R. Berkley,2024,1A,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Catastrophe and climate,11,8808,1.248864668483197
+WRB,W. R. Berkley,2024,1A,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Reinsurance and recoverables,3,8808,0.3405994550408719
+WRB,W. R. Berkley,2024,1A,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Social inflation and litigation,3,8808,0.3405994550408719
+WRB,W. R. Berkley,2024,1A,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Reserve adequacy,5,8808,0.5676657584014533
+WRB,W. R. Berkley,2024,1A,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Cyber risk,12,8808,1.3623978201634876
+WRB,W. R. Berkley,2024,1A,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Technology and AI,4,8808,0.45413260672116257
+WRB,W. R. Berkley,2024,7,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Catastrophe and climate,10,13274,0.7533524182612626
+WRB,W. R. Berkley,2024,7,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Reinsurance and recoverables,0,13274,0.0
+WRB,W. R. Berkley,2024,7,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Social inflation and litigation,10,13274,0.7533524182612626
+WRB,W. R. Berkley,2024,7,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Reserve adequacy,25,13274,1.8833810456531566
+WRB,W. R. Berkley,2024,7,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Cyber risk,1,13274,0.07533524182612626
+WRB,W. R. Berkley,2024,7,0000011544-25-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154425000005/wrb-20241231.htm,Technology and AI,0,13274,0.0
+WRB,W. R. Berkley,2023,1A,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Catastrophe and climate,11,9343,1.1773520282564487
+WRB,W. R. Berkley,2023,1A,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Reinsurance and recoverables,3,9343,0.3210960077063042
+WRB,W. R. Berkley,2023,1A,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Social inflation and litigation,3,9343,0.3210960077063042
+WRB,W. R. Berkley,2023,1A,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Reserve adequacy,5,9343,0.5351600128438403
+WRB,W. R. Berkley,2023,1A,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Cyber risk,13,9343,1.391416033393985
+WRB,W. R. Berkley,2023,1A,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Technology and AI,0,9343,0.0
+WRB,W. R. Berkley,2023,7,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Catastrophe and climate,9,13688,0.657510227936879
+WRB,W. R. Berkley,2023,7,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Reinsurance and recoverables,1,13688,0.07305669199298656
+WRB,W. R. Berkley,2023,7,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Social inflation and litigation,9,13688,0.657510227936879
+WRB,W. R. Berkley,2023,7,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Reserve adequacy,25,13688,1.826417299824664
+WRB,W. R. Berkley,2023,7,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Cyber risk,1,13688,0.07305669199298656
+WRB,W. R. Berkley,2023,7,0000011544-24-000005,https://www.sec.gov/Archives/edgar/data/11544/000001154424000005/wrb-20231231.htm,Technology and AI,0,13688,0.0

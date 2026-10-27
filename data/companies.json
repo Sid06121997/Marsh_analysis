@@ -1,0 +1,42 @@
+{
+  "TRV": {
+    "name": "Travelers",
+    "cik": 86312,
+    "sec_title": "TRAVELERS COMPANIES, INC."
+  },
+  "CB": {
+    "name": "Chubb",
+    "cik": 896159,
+    "sec_title": "Chubb Ltd"
+  },
+  "PGR": {
+    "name": "Progressive",
+    "cik": 80661,
+    "sec_title": "PROGRESSIVE CORP/OH/"
+  },
+  "ALL": {
+    "name": "Allstate",
+    "cik": 899051,
+    "sec_title": "ALLSTATE CORP"
+  },
+  "ACGL": {
+    "name": "Arch Capital",
+    "cik": 947484,
+    "sec_title": "ARCH CAPITAL GROUP LTD."
+  },
+  "EG": {
+    "name": "Everest",
+    "cik": 1095073,
+    "sec_title": "EVEREST GROUP, LTD."
+  },
+  "RNR": {
+    "name": "RenaissanceRe",
+    "cik": 913144,
+    "sec_title": "RENAISSANCERE HOLDINGS LTD"
+  },
+  "WRB": {
+    "name": "W. R. Berkley",
+    "cik": 11544,
+    "sec_title": "BERKLEY W R CORP"
+  }
+}
